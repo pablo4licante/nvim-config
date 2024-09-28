@@ -9,8 +9,8 @@ This repo contains my personal setup and configuration for Neovim.
 - **Tree-sitter Integration**: Syntax highlighting and improved code understanding with Tree-sitter parsers.
 - **LSP Support**: Language Server Protocol integration for enhanced code completion and diagnostics.
 - **Plugin Management**: Easy installation and management of plugins using [Packer](https://github.com/wbthomason/packer.nvim).
-- **Telescope Integration**: Powerful fuzzy finder that requires [Ripgrep](https://github.com/BurntSushi/ripgrep) for optimal performance.
-- **Customization**: Configurations for various languages and file types, tailored to my preferences.
+- **Telescope Integration**: Powerful fuzzy finder with [Ripgrep](https://github.com/BurntSushi/ripgrep).
+- **Customization**: Configurations for the editor and color themes tailored to my preferences.
 
 ## Installation
 
