@@ -6,11 +6,11 @@ This repo contains my personal setup and configuration for Neovim.
 ## Features
 
 - **Custom Keybindings**: Streamlined shortcuts for better navigation and editing.
-- **Tree-sitter Integration**: Syntax highlighting and improved code understanding with Tree-sitter parsers.
-- **LSP Support**: Language Server Protocol integration for enhanced code completion and diagnostics.
+- **Tree-sitter Integration**: Syntax highlighting and improved code understanding with [Tree-sitter](https://github.com/tree-sitter/tree-sitter) parsers.
+- **LSP Support**: Language Server Protocol integration for enhanced code completion and diagnostics with [LSP Zero](https://github.com/VonHeikemen/lsp-zero.nvim).
 - **Plugin Management**: Easy installation and management of plugins using [Packer](https://github.com/wbthomason/packer.nvim).
-- **Telescope Integration**: Powerful fuzzy finder with [Ripgrep](https://github.com/BurntSushi/ripgrep).
-- **Customization**: Configurations for the editor and color themes tailored to my preferences.
+- **Telescope Integration**: [Telescope](https://github.com/nvim-telescope/telescope.nvim) is a powerful fuzzy finder with [Ripgrep](https://github.com/BurntSushi/ripgrep).
+- **Customization**: Configurations for the editor and the [gruvbox](https://github.com/morhetz/gruvbox) color theme.
 
 ## Installation
 
